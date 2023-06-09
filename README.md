@@ -4,9 +4,9 @@
 ### Differentiable Programming
 
 ## Building Safe Systems With Learned Components
-### Verifying Neural Networks
+### Verified Machine Learning
+* Meyer, Anna, Aws Albarghouthi, and Loris D'Antoni. "Certifying robustness to programmable data bias in decision trees." Advances in Neural Information Processing Systems 34 (2021): 26276-26288.
 ### Probabilistic Verification
-
 
 
 ## Leveraging Generative Models
