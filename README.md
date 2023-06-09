@@ -17,3 +17,4 @@
 * Cassano, Federico, et al. "Type Prediction With Program Decomposition and Fill-in-the-Type Training." arXiv preprint arXiv:2305.17145 (2023).
 
 
+* Barnaby, Celeste, et al. "ImageEye: Batch Image Processing Using Program Synthesis." arXiv preprint arXiv:2304.03253 (2023).
